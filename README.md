@@ -1,7 +1,7 @@
 # urlshortener
 A simple **Django** API that listens on '/shortener' for GET requests with URLs to shorten, and on '/' for GET requests to return the correponding shortened URL.
 
-It was made to be hosted free on Pythonanywhere.com, for ever.
+It was made to be hosted for free on Pythonanywhere.com, for ever.
 
 The available URL of the project is: https://javiervidrua.pythonanywhere.com
 
