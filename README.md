@@ -23,6 +23,8 @@ Now if we go to https://javiervidrua.pythonanywhere.com/?id=2d268682-51e0-4931-8
 
 ## Notes
 
-The project was made just to get some hands-on experience with Python and Django, and even though it is entirely functional, some improvements can be done to make the URLs shorter.
+* The project was made just to get some hands-on experience with Python and Django, and even though it is entirely functional, some improvements can be done to make the URLs shorter.
 
-Other than that, it works well and it's really fast, and I'm really happy with it.
+* If you want to run it in production, change DEBUG to True in 'urlshortener/settings.py'
+
+* Other than that, it works well and it's really fast, and I'm really happy with it.
