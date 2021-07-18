@@ -1,5 +1,6 @@
 from django.shortcuts import render
 from django.http import HttpResponse
+from django.http import HttpResponseRedirect
 
 from shortener.models import Url
 
@@ -21,6 +22,6 @@ def shortened_url_get(url):
 
 	try:
 		long_url = Url.objects.get(short_url=url).long_url
-		return HttpResponse(str(long_url))
+		return HttpResponseRedirect(str(long_url))
 	except:
 		return HttpResponse("Error: System error")
