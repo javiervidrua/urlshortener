@@ -269,7 +269,7 @@ pandas==1.1.5
 pandocfilters==1.4.3
 pansi==2020.7.3
 param==1.10.1
-paramiko==2.7.2
+paramiko==2.10.1
 parsel==1.6.0
 parso==0.8.2
 Paste==3.5.0
