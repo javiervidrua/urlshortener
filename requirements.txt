@@ -328,7 +328,7 @@ pygeoip==0.3.2
 Pygments==2.9.0
 PyGObject==3.38.0
 pyhdf==0.10.2
-PyJWT==1.7.1
+PyJWT==2.4.0
 Pykka==2.0.3
 pymarc==4.1.0
 pymc==2.3.8
