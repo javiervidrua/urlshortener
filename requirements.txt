@@ -225,7 +225,7 @@ mechanize==0.4.5
 memory-profiler==0.58.0
 mglearn==0.1.9
 mimerender==0.6.0
-mistune==0.8.4
+mistune==2.0.3
 mock==4.0.3
 monotonic==1.5
 more-itertools==8.6.0
