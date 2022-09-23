@@ -302,7 +302,7 @@ proglog==0.1.9
 prometheus-client==0.10.1
 prompt-toolkit==3.0.18
 Protego==0.1.16
-protobuf==3.14.0
+protobuf==3.18.3
 psutil==5.8.0
 psycopg2-binary==2.8.6
 ptyprocess==0.7.0
