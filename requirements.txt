@@ -221,7 +221,7 @@ Markdown==3.3.3
 MarkupSafe==2.0.1
 martian==1.4
 matplotlib==3.3.4
-mechanize==0.4.5
+mechanize==0.4.6
 memory-profiler==0.58.0
 mglearn==0.1.9
 mimerender==0.6.0
