@@ -480,7 +480,7 @@ webencodings==0.5.1
 WebOb==1.8.6
 websocket-client==0.57.0
 WebTest==2.0.35
-Werkzeug==2.0.1
+Werkzeug==2.2.3
 wheezy.caching==3.0.1
 wheezy.core==3.0.1
 wheezy.html==3.0.1
