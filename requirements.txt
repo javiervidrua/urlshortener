@@ -370,7 +370,7 @@ Quandl==3.6.0
 queuelib==1.6.1
 rdflib==5.0.0
 readability-lxml==0.8.1
-redis==4.5.3
+redis==4.5.4
 reg==0.12
 regex==2020.11.13
 reportlab==3.5.67
